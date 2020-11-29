@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Game/Scenes/LevelSelect.unity
+    guid: 8d8fe815231870a44a47873ff0d85009
+  - enabled: 1
+    path: Assets/Game/Scenes/Dango 1.unity
+    guid: 178b68735d3625a4ebfa6a71cd7dea34
+  - enabled: 1
+    path: Assets/Game/Scenes/Dango 2.unity
+    guid: 485aa897821740d4daf481c678903651
+  - enabled: 1
+    path: Assets/Game/Scenes/Dango 3.unity
+    guid: 32a8c977035c82c48a2d2121c4e63973
+  - enabled: 1
+    path: Assets/Game/Scenes/Dango 4.unity
+    guid: ae2d67b25de137b44be3c45769264826
+  - enabled: 1
+    path: Assets/Game/Scenes/Dango 5.unity
+    guid: 73590f6e233aef44c80c2c38fbd1fed9
+  - enabled: 1
+    path: Assets/Game/Scenes/Dango 6.unity
+    guid: 08ff86e77fee9264293c8c3ae0fc2ea7
+  - enabled: 1
+    path: Assets/Game/Scenes/Dango 7.unity
+    guid: 0bbfec5c9c7ad0340ba19ca8efb32416
+  - enabled: 1
+    path: Assets/Game/Scenes/Dango 8.unity
+    guid: 6ef8a100bb63fb64f827e9177ed07de1
+  - enabled: 1
+    path: Assets/Game/Scenes/Dango 9.unity
+    guid: 5115f7802f64e714793eac787bff2868
+  m_configObjects: {}
